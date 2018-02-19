@@ -1477,7 +1477,7 @@
       <option name="transportCost" value="5"/>
       <option name="attack" value="2"/>
       <option name="defense" value="3"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
       <option name="hitPoints" value="2"/>
     </attachment>
     <!--marine-->
@@ -1486,7 +1486,7 @@
       <option name="transportCost" value="5"/>
       <option name="attack" value="5"/>
       <option name="defense" value="4"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <!--marine-->
     <attachment name="unitAttachment" attachTo="Veteran" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
@@ -1550,7 +1550,7 @@
       <option name="transportCost" value="3"/>
       <option name="attack" value="2"/>
       <option name="defense" value="2"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="Cavalry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="movement" value="2"/>
@@ -1587,7 +1587,7 @@
       <option name="defense" value="4"/>
       <option name="canBombard" value="true"/>
       <option name="hitPoints" value="2"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="Carrier" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="movement" value="2"/>
@@ -1596,7 +1596,7 @@
       <option name="defense" value="4"/>
       <option name="canBombard" value="true"/>
       <option name="hitPoints" value="2"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="Destroyer" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="movement" value="2"/>
