@@ -3054,6 +3054,9 @@
     </property>
     <property name="neutralCharge" value="9999"/>
     <!-- Bids -->
+    <property name="Placement Restricted By Factory" value="true" editable="false">
+      <boolean/>
+    </property>
     <property name="Germans bid" value="0" editable="true">
       <number min="0" max="1000"/>
     </property>
